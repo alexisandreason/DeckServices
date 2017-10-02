@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeckServices.iml" filepath="$PROJECT_DIR$/.idea/modules/DeckServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeckServices_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DeckServices_main.iml" group="DeckServices" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeckServices_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DeckServices_test.iml" group="DeckServices" />
+    </modules>
+  </component>
+</project>
