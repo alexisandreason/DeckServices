@@ -7,6 +7,7 @@ import java.util.Map;
 import java.util.ResourceBundle;
 
 /**
+ * This class acts as the storage layer for decks
  * Created by alexis on 10/1/17.
  */
 public class MemoryStorage implements Storage {

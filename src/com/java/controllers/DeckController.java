@@ -30,7 +30,7 @@ public class DeckController {
     public Response fetchByName(@PathParam("deckName")String deckName) {
         MemoryStorage storage = MemoryStorage.getInstance();
         Deck deck = storage.fetchDeck(deckName);
-        if ( deck != null ) {
+        if ( deck == null ) {
             return Response
                     .status(Response.Status.NOT_FOUND)
                     .build();
